@@ -20,7 +20,7 @@ nav a{
 }
 
 nav{
-    background:	grey;
+    background:	none;
     display: flex;
     padding: 1% 5%;
     justify-content: space-between;
